@@ -1,0 +1,5322 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 16
+/Kids [ 4 0 R 12 0 R 15 0 R 18 0 R 21 0 R 24 0 R 27 0 R 30 0 R 33 0 R 36 0 R 39 0 R 42 0 R 45 0 R 48 0 R 51 0 R 54 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 7010
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.168627 .423529 .690196 RG
+.6 w
+n 51.02362 813.5433 m 544.252 813.5433 l S
+BT /F1 7.5 Tf 9 TL ET
+.443137 .501961 .588235 rg
+BT 1 0 0 1 228.7165 22.67717 Tm (Python Basics \227 Simple Notes  |  Page 1) Tj T* ET
+.886275 .909804 .941176 RG
+.4 w
+n 51.02362 34.01575 m 544.252 34.01575 l S
+Q
+q
+1 0 0 1 57.02362 753.1969 cm
+q
+.101961 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 22 Tf 26 TL 78.01217 0 Td (Python Basics \227 Simple Notes) Tj T* -78.01217 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 715.8583 cm
+q
+BT 1 0 0 1 0 16 Tm 92.22417 0 Td 13 TL /F1 10 Tf .443137 .501961 .588235 rg (Beginner-friendly explanations with a clear example for every topic.) Tj  T* 25.68 0 Td (Clean structure \177 Consistent format \177 Ready for practice) Tj T* -117.9042 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 697.6504 cm
+q
+1.2 w
+1 J
+.168627 .423529 .690196 RG
+n 0 0 m 481.2283 0 l S
+Q
+Q
+q
+1 0 0 1 57.02362 667.4772 cm
+q
+.101961 .211765 .364706 rg
+BT 1 0 0 1 0 3 Tm /F2 13 Tf 16 TL (Contents) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 647.3906 cm
+q
+.101961 .211765 .364706 rg
+BT 1 0 0 1 8.503937 4 Tm /F1 9 Tf 13 TL (1. Python Fundamentals) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 634.3906 cm
+q
+.101961 .211765 .364706 rg
+BT 1 0 0 1 8.503937 4 Tm /F1 9 Tf 13 TL (2. Conditional Statements) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 621.3906 cm
+q
+.101961 .211765 .364706 rg
+BT 1 0 0 1 8.503937 4 Tm /F1 9 Tf 13 TL (3. Loops) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 608.3906 cm
+q
+.101961 .211765 .364706 rg
+BT 1 0 0 1 8.503937 4 Tm /F1 9 Tf 13 TL (4. Python Data Structures) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 595.3906 cm
+q
+.101961 .211765 .364706 rg
+BT 1 0 0 1 8.503937 4 Tm /F1 9 Tf 13 TL (5. Functions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 582.3906 cm
+q
+.101961 .211765 .364706 rg
+BT 1 0 0 1 8.503937 4 Tm /F1 9 Tf 13 TL (6. Strings) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 569.3906 cm
+q
+.101961 .211765 .364706 rg
+BT 1 0 0 1 8.503937 4 Tm /F1 9 Tf 13 TL (7. File Handling) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 556.3906 cm
+q
+.101961 .211765 .364706 rg
+BT 1 0 0 1 8.503937 4 Tm /F1 9 Tf 13 TL (8. Exception Handling) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 543.3906 cm
+q
+.101961 .211765 .364706 rg
+BT 1 0 0 1 8.503937 4 Tm /F1 9 Tf 13 TL (9. Modules and Packages) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 530.3906 cm
+q
+.101961 .211765 .364706 rg
+BT 1 0 0 1 8.503937 4 Tm /F1 9 Tf 13 TL (10. Object-Oriented Programming) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 517.3906 cm
+q
+.101961 .211765 .364706 rg
+BT 1 0 0 1 8.503937 4 Tm /F1 9 Tf 13 TL (11. Intermediate Python) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 504.3906 cm
+q
+.101961 .211765 .364706 rg
+BT 1 0 0 1 8.503937 4 Tm /F1 9 Tf 13 TL (12. Python for Cybersecurity) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 491.3906 cm
+q
+.101961 .211765 .364706 rg
+BT 1 0 0 1 8.503937 4 Tm /F1 9 Tf 13 TL (13. Python for AI / ML) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 478.3906 cm
+q
+BT 1 0 0 1 8.503937 4 Tm 13 TL /F1 9 Tf .101961 .211765 .364706 rg (14. Recommended Learning Order & Practice) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 469.8866 cm
+Q
+q
+1 0 0 1 57.02362 468.2866 cm
+q
+.6 w
+1 J
+.886275 .909804 .941176 RG
+n 0 0 m 481.2283 0 l S
+Q
+Q
+q
+1 0 0 1 57.02362 438.1134 cm
+q
+.101961 .211765 .364706 rg
+BT 1 0 0 1 0 3 Tm /F2 13 Tf 16 TL (1. Python Fundamentals) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 416.6094 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Installing Python) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 401.7748 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Putting Python on your computer so you can write and run Python programs.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 388.9402 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 376.5228 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 3 Tm /F3 8 Tf 11 TL (print\("Hello"\)) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 355.0189 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (print\(\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 340.1843 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Shows something on the screen.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 327.3496 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 314.9323 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 3 Tm /F3 8 Tf 11 TL (print\("Hello Kuvalesh"\)) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 293.4283 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Comments) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 278.5937 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Notes for humans. Python does not execute them.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 265.7591 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 242.3417 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 14 Tm /F3 8 Tf 11 TL (# This is a comment) Tj T* (print\("Hello"\)) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 220.8378 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Variables) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 206.0031 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( A named box that stores information.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 193.1685 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 158.7512 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 25 Tm /F3 8 Tf 11 TL (name = "Kuvalesh") Tj T* (age = 21) Tj T* (print\(name\)) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 137.2472 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Naming Rules) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 122.4126 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( A variable name cannot start with a number or contain spaces. Use letters, numbers and underscore.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 109.578 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 86.16063 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 14 Tm /F3 8 Tf 11 TL (student_name = "Rahul") Tj T* (age2 = 20) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 70.90866 cm
+q
+.152941 .403922 .286275 rg
+BT 1 0 0 1 5.669291 2.5 Tm /F4 8.5 Tf 11 TL (Tip: Use snake_case for variable names \(preferred Python style\).) Tj T* ET
+Q
+Q
+ 
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.101961 0.321569 0.462745 RG
+1.8 w
+n
+28.34646 28.34646 538.5827 785.1969 re
+S
+0.7 w
+n
+36.85039 36.85039 521.5748 768.189 re
+S
+1.2 w
+n
+28.34646 802.2047 m
+28.34646 813.5433 l
+S
+n
+28.34646 813.5433 m
+39.68504 813.5433 l
+S
+n
+555.5906 813.5433 m
+566.9291 813.5433 l
+S
+n
+566.9291 813.5433 m
+566.9291 802.2047 l
+S
+n
+28.34646 28.34646 m
+28.34646 39.68504 l
+S
+n
+28.34646 28.34646 m
+39.68504 28.34646 l
+S
+n
+555.5906 28.34646 m
+566.9291 28.34646 l
+S
+n
+566.9291 28.34646 m
+566.9291 39.68504 l
+S
+Q
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/BaseFont /Symbol
+/Name /F5
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+12 0 obj
+<<
+/Contents 13 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 14 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+13 0 obj
+<<
+/Length 6584
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.168627 .423529 .690196 RG
+.6 w
+n 51.02362 813.5433 m 544.252 813.5433 l S
+BT /F1 7.5 Tf 9 TL ET
+.443137 .501961 .588235 rg
+BT 1 0 0 1 228.7165 22.67717 Tm (Python Basics \227 Simple Notes  |  Page 2) Tj T* ET
+.886275 .909804 .941176 RG
+.4 w
+n 51.02362 34.01575 m 544.252 34.01575 l S
+Q
+q
+1 0 0 1 57.02362 766.1969 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (int) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 751.3622 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Whole numbers \(integers\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 738.5276 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 726.1102 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 3 Tm /F3 8 Tf 11 TL (age = 21) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 704.6063 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (float) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 689.7717 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Numbers with decimals.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 676.937 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 664.5197 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 3 Tm /F3 8 Tf 11 TL (price = 99.50) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 643.0157 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (str) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 628.1811 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Text inside quotes \(single or double\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 615.3465 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 602.9291 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 3 Tm /F3 8 Tf 11 TL (name = "Kuvalesh") Tj T* ET
+Q
+q
+1 0 0 1 57.02362 581.4252 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (bool) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 566.5906 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Only True or False.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 553.7559 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 541.3386 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 3 Tm /F3 8 Tf 11 TL (is_student = True) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 519.8346 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (None) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 505 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Means there is currently no value.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 492.1654 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 479.748 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 3 Tm /F3 8 Tf 11 TL (result = None) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 458.2441 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Type Conversion) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 443.4094 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Changing one data type into another.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 430.5748 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 396.1575 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 25 Tm /F3 8 Tf 11 TL (age = int\("21"\)) Tj T* (price = float\("10.5"\)) Tj T* (text = str\(100\)) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 374.6535 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (input\(\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 359.8189 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Gets information typed by the user \(always returns a string\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 346.9843 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 323.5669 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 14 Tm /F3 8 Tf 11 TL (name = input\("Enter your name: "\)) Tj T* (print\(name\)) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 308.315 cm
+q
+.152941 .403922 .286275 rg
+BT 1 0 0 1 5.669291 2.5 Tm /F4 8.5 Tf 11 TL (Tip: Convert input with int\(\) or float\(\) when you need numbers.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 286.811 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Arithmetic Operators) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 271.9764 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Do mathematics: + ) Tj /F5 9 Tf 12 TL (-) Tj /F1 9 Tf 12 TL ( * / // % **) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 259.1417 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 191.7244 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 58 Tm /F3 8 Tf 11 TL (a = 10) Tj T* (b = 3) Tj T* (print\(a + b\)   # 13) Tj T* (print\(a % b\)   # 1 \(remainder\)) Tj T* (print\(a // b\)  # 3 \(floor division\)) Tj T* (print\(a ** b\)  # 1000 \(power\)) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 170.2205 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Comparison Operators) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 155.3858 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Compare two values and give True or False: == != > < >= <) Tj (=) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 142.5512 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 108.1339 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 25 Tm /F3 8 Tf 11 TL (print\(10 &gt; 5\)    # True) Tj T* (print\(10 == 10\)  # True) Tj T* (print\(10 != 5\)   # True) Tj T* ET
+Q
+ 
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.101961 0.321569 0.462745 RG
+1.8 w
+n
+28.34646 28.34646 538.5827 785.1969 re
+S
+0.7 w
+n
+36.85039 36.85039 521.5748 768.189 re
+S
+1.2 w
+n
+28.34646 802.2047 m
+28.34646 813.5433 l
+S
+n
+28.34646 813.5433 m
+39.68504 813.5433 l
+S
+n
+555.5906 813.5433 m
+566.9291 813.5433 l
+S
+n
+566.9291 813.5433 m
+566.9291 802.2047 l
+S
+n
+28.34646 28.34646 m
+28.34646 39.68504 l
+S
+n
+28.34646 28.34646 m
+39.68504 28.34646 l
+S
+n
+555.5906 28.34646 m
+566.9291 28.34646 l
+S
+n
+566.9291 28.34646 m
+566.9291 39.68504 l
+S
+Q
+
+endstream
+endobj
+14 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+15 0 obj
+<<
+/Contents 16 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 17 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+16 0 obj
+<<
+/Length 5601
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.168627 .423529 .690196 RG
+.6 w
+n 51.02362 813.5433 m 544.252 813.5433 l S
+BT /F1 7.5 Tf 9 TL ET
+.443137 .501961 .588235 rg
+BT 1 0 0 1 228.7165 22.67717 Tm (Python Basics \227 Simple Notes  |  Page 3) Tj T* ET
+.886275 .909804 .941176 RG
+.4 w
+n 51.02362 34.01575 m 544.252 34.01575 l S
+Q
+q
+1 0 0 1 57.02362 766.1969 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Logical Operators) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 751.3622 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Combine conditions using and, or, and not.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 738.5276 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 715.1102 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 14 Tm /F3 8 Tf 11 TL (age = 20) Tj T* (print\(age &gt; 18 and age &lt; 30\)  # True) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 693.6063 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Assignment Operators) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 678.7717 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Store or update values: = += ) Tj /F5 9 Tf 12 TL (-) Tj /F1 9 Tf 12 TL (= *= /= //= %= **=) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 665.937 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 631.5197 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 25 Tm /F3 8 Tf 11 TL (x = 10) Tj T* (x += 5   # same as x = x + 5) Tj T* (print\(x\)  # 15) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 610.0157 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Membership Operators) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 595.1811 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Check whether something exists inside something else \(in / not in\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 582.3465 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 558.9291 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 14 Tm /F3 8 Tf 11 TL (name = "Kuvalesh") Tj T* (print\("K" in name\)  # True) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 537.4252 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Identity Operators) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 522.5906 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Check whether two variables refer to the same object \(is / is not\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 509.7559 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 475.3386 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 25 Tm /F3 8 Tf 11 TL (a = [1, 2]) Tj T* (b = a) Tj T* (print\(a is b\)  # True) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 445.1654 cm
+q
+.101961 .211765 .364706 rg
+BT 1 0 0 1 0 3 Tm /F2 13 Tf 16 TL (2. Conditional Statements) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 423.6614 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (if) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 408.8268 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Runs code when a condition is true.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 395.9921 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 361.5748 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 25 Tm /F3 8 Tf 11 TL (age = 20) Tj T* (if age &gt;= 18:) Tj T* (    print\("Adult"\)) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 340.0709 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (elif) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 325.2362 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Checks another condition when the previous one was false.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 312.4016 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 255.9843 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 47 Tm /F3 8 Tf 11 TL (marks = 75) Tj T* (if marks &gt;= 90:) Tj T* (    print\("A"\)) Tj T* (elif marks &gt;= 60:) Tj T* (    print\("B"\)) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 234.4803 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (else) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 219.6457 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Runs when all previous conditions are false.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 206.811 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 150.3937 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 47 Tm /F3 8 Tf 11 TL (age = 15) Tj T* (if age &gt;= 18:) Tj T* (    print\("Adult"\)) Tj T* (else:) Tj T* (    print\("Child"\)) Tj T* ET
+Q
+ 
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.101961 0.321569 0.462745 RG
+1.8 w
+n
+28.34646 28.34646 538.5827 785.1969 re
+S
+0.7 w
+n
+36.85039 36.85039 521.5748 768.189 re
+S
+1.2 w
+n
+28.34646 802.2047 m
+28.34646 813.5433 l
+S
+n
+28.34646 813.5433 m
+39.68504 813.5433 l
+S
+n
+555.5906 813.5433 m
+566.9291 813.5433 l
+S
+n
+566.9291 813.5433 m
+566.9291 802.2047 l
+S
+n
+28.34646 28.34646 m
+28.34646 39.68504 l
+S
+n
+28.34646 28.34646 m
+39.68504 28.34646 l
+S
+n
+555.5906 28.34646 m
+566.9291 28.34646 l
+S
+n
+566.9291 28.34646 m
+566.9291 39.68504 l
+S
+Q
+
+endstream
+endobj
+17 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+18 0 obj
+<<
+/Contents 19 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 20 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+19 0 obj
+<<
+/Length 6122
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.168627 .423529 .690196 RG
+.6 w
+n 51.02362 813.5433 m 544.252 813.5433 l S
+BT /F1 7.5 Tf 9 TL ET
+.443137 .501961 .588235 rg
+BT 1 0 0 1 228.7165 22.67717 Tm (Python Basics \227 Simple Notes  |  Page 4) Tj T* ET
+.886275 .909804 .941176 RG
+.4 w
+n 51.02362 34.01575 m 544.252 34.01575 l S
+Q
+q
+1 0 0 1 57.02362 766.1969 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Nested if) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 751.3622 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( An if statement inside another if statement.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 738.5276 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 682.1102 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 47 Tm /F3 8 Tf 11 TL (age = 20) Tj T* (has_id = True) Tj T* (if age &gt;= 18:) Tj T* (    if has_id:) Tj T* (        print\("Entry allowed"\)) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 660.6063 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Ternary Operator) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 645.7717 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( A short one-line if-else.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 632.937 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 620.5197 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 3 Tm /F3 8 Tf 11 TL (result = "Adult" if age &gt;= 18 else "Child") Tj T* ET
+Q
+q
+1 0 0 1 57.02362 590.3465 cm
+q
+.101961 .211765 .364706 rg
+BT 1 0 0 1 0 3 Tm /F2 13 Tf 16 TL (3. Loops) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 568.8425 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (for loop) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 554.0079 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Repeats code for each item or number in a sequence.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 541.1732 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 517.7559 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 14 Tm /F3 8 Tf 11 TL (for i in range\(5\):) Tj T* (    print\(i\)  # 0 1 2 3 4) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 496.252 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (while loop) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 481.4173 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Repeats code while a condition is true.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 468.5827 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 423.1654 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 36 Tm /F3 8 Tf 11 TL (i = 1) Tj T* (while i &lt;= 5:) Tj T* (    print\(i\)) Tj T* (    i += 1) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 401.6614 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (range\(\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 386.8268 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Creates a sequence of numbers, commonly used with loops.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 373.9921 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 339.5748 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 25 Tm /F3 8 Tf 11 TL (for i in range\(1, 6\):) Tj T* (    print\(i\)  # 1 2 3 4 5) Tj T* (# range\(start, stop, step\)) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 318.0709 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (break) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 303.2362 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Stops a loop immediately.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 290.4016 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 244.9843 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 36 Tm /F3 8 Tf 11 TL (for i in range\(10\):) Tj T* (    if i == 5:) Tj T* (        break) Tj T* (    print\(i\)  # 0 1 2 3 4) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 223.4803 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (continue) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 208.6457 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Skips the current loop round and goes to the next.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 195.811 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 150.3937 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 36 Tm /F3 8 Tf 11 TL (for i in range\(5\):) Tj T* (    if i == 2:) Tj T* (        continue) Tj T* (    print\(i\)  # 0 1 3 4) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 128.8898 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (pass) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 114.0551 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Does nothing; useful as a placeholder.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 101.2205 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 77.80315 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 14 Tm /F3 8 Tf 11 TL (if True:) Tj T* (    pass  # later you can add code here) Tj T* ET
+Q
+ 
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.101961 0.321569 0.462745 RG
+1.8 w
+n
+28.34646 28.34646 538.5827 785.1969 re
+S
+0.7 w
+n
+36.85039 36.85039 521.5748 768.189 re
+S
+1.2 w
+n
+28.34646 802.2047 m
+28.34646 813.5433 l
+S
+n
+28.34646 813.5433 m
+39.68504 813.5433 l
+S
+n
+555.5906 813.5433 m
+566.9291 813.5433 l
+S
+n
+566.9291 813.5433 m
+566.9291 802.2047 l
+S
+n
+28.34646 28.34646 m
+28.34646 39.68504 l
+S
+n
+28.34646 28.34646 m
+39.68504 28.34646 l
+S
+n
+555.5906 28.34646 m
+566.9291 28.34646 l
+S
+n
+566.9291 28.34646 m
+566.9291 39.68504 l
+S
+Q
+
+endstream
+endobj
+20 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+21 0 obj
+<<
+/Contents 22 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 23 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+22 0 obj
+<<
+/Length 6729
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.168627 .423529 .690196 RG
+.6 w
+n 51.02362 813.5433 m 544.252 813.5433 l S
+BT /F1 7.5 Tf 9 TL ET
+.443137 .501961 .588235 rg
+BT 1 0 0 1 228.7165 22.67717 Tm (Python Basics \227 Simple Notes  |  Page 5) Tj T* ET
+.886275 .909804 .941176 RG
+.4 w
+n 51.02362 34.01575 m 544.252 34.01575 l S
+Q
+q
+1 0 0 1 57.02362 766.1969 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Nested loops) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 751.3622 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( A loop inside another loop.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 738.5276 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 704.1102 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 25 Tm /F3 8 Tf 11 TL (for i in range\(3\):) Tj T* (    for j in range\(2\):) Tj T* (        print\(i, j\)) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 682.6063 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Practice ideas) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 667.7717 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Common beginner practice: even/odd, factorial, prime numbers, multiplication tables and patterns.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 654.937 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 631.5197 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 14 Tm /F3 8 Tf 11 TL (n = 7) Tj T* (print\("Even" if n % 2 == 0 else "Odd"\)) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 601.3465 cm
+q
+.101961 .211765 .364706 rg
+BT 1 0 0 1 0 3 Tm /F2 13 Tf 16 TL (4. Python Data Structures) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 579.8425 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (String) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 565.0079 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Stores text \(immutable\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 552.1732 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 539.7559 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 3 Tm /F3 8 Tf 11 TL (name = "Kuvalesh") Tj T* ET
+Q
+q
+1 0 0 1 57.02362 518.252 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (List) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 503.4173 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Stores multiple values and can be changed \(mutable, ordered\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 490.5827 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 467.1654 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 14 Tm /F3 8 Tf 11 TL (fruits = ["apple", "banana", "mango"]) Tj T* (fruits.append\("orange"\)) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 445.6614 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Tuple) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 430.8268 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Stores multiple values and cannot be changed after creation \(immutable, ordered\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 417.9921 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 405.5748 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 3 Tm /F3 8 Tf 11 TL (numbers = \(10, 20, 30\)) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 384.0709 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Set) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 369.2362 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Stores unique values; duplicates are automatically removed \(unordered\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 356.4016 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 332.9843 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 14 Tm /F3 8 Tf 11 TL (numbers = {1, 2, 2, 3}) Tj T* (print\(numbers\)  # {1, 2, 3}) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 311.4803 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Dictionary) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 296.6457 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Stores information as key-value pairs \(mutable\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 283.811 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 260.3937 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 14 Tm /F3 8 Tf 11 TL (student = {"name": "Kuvalesh", "age": 21}) Tj T* (print\(student["name"]\)) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 238.8898 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Indexing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 224.0551 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Gets an item by its position. Python starts from index 0.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 211.2205 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 187.8031 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 14 Tm /F3 8 Tf 11 TL (fruits = ["apple", "banana", "mango"]) Tj T* (print\(fruits[1]\)  # banana) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 166.2992 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Slicing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 151.4646 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Gets part of a sequence: sequence[start:stop:step]) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 138.6299 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 115.2126 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 14 Tm /F3 8 Tf 11 TL (numbers = [10, 20, 30, 40, 50]) Tj T* (print\(numbers[1:4]\)  # [20, 30, 40]) Tj T* ET
+Q
+ 
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.101961 0.321569 0.462745 RG
+1.8 w
+n
+28.34646 28.34646 538.5827 785.1969 re
+S
+0.7 w
+n
+36.85039 36.85039 521.5748 768.189 re
+S
+1.2 w
+n
+28.34646 802.2047 m
+28.34646 813.5433 l
+S
+n
+28.34646 813.5433 m
+39.68504 813.5433 l
+S
+n
+555.5906 813.5433 m
+566.9291 813.5433 l
+S
+n
+566.9291 813.5433 m
+566.9291 802.2047 l
+S
+n
+28.34646 28.34646 m
+28.34646 39.68504 l
+S
+n
+28.34646 28.34646 m
+39.68504 28.34646 l
+S
+n
+555.5906 28.34646 m
+566.9291 28.34646 l
+S
+n
+566.9291 28.34646 m
+566.9291 39.68504 l
+S
+Q
+
+endstream
+endobj
+23 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+24 0 obj
+<<
+/Contents 25 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 26 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+25 0 obj
+<<
+/Length 6252
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.168627 .423529 .690196 RG
+.6 w
+n 51.02362 813.5433 m 544.252 813.5433 l S
+BT /F1 7.5 Tf 9 TL ET
+.443137 .501961 .588235 rg
+BT 1 0 0 1 228.7165 22.67717 Tm (Python Basics \227 Simple Notes  |  Page 6) Tj T* ET
+.886275 .909804 .941176 RG
+.4 w
+n 51.02362 34.01575 m 544.252 34.01575 l S
+Q
+q
+1 0 0 1 57.02362 766.1969 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Add / Remove / Update) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 751.3622 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Change the contents of a mutable data structure.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 738.5276 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 704.1102 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 25 Tm /F3 8 Tf 11 TL (fruits.append\("orange"\)) Tj T* (fruits.remove\("apple"\)) Tj T* (fruits[0] = "grapes") Tj T* ET
+Q
+q
+1 0 0 1 57.02362 682.6063 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Iterating) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 667.7717 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Going through items one by one.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 654.937 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 631.5197 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 14 Tm /F3 8 Tf 11 TL (for fruit in fruits:) Tj T* (    print\(fruit\)) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 601.3465 cm
+q
+.101961 .211765 .364706 rg
+BT 1 0 0 1 0 3 Tm /F2 13 Tf 16 TL (5. Functions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 579.8425 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Defining and Calling) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 565.0079 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( A function is reusable code made to do a particular job.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 552.1732 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 517.7559 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 25 Tm /F3 8 Tf 11 TL (def greet\(\):) Tj T* (    print\("Hello"\)) Tj T* (greet\(\)) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 496.252 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Parameters and Arguments) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 481.4173 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( A parameter is what a function expects; an argument is the value you give it.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 468.5827 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 434.1654 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 25 Tm /F3 8 Tf 11 TL (def greet\(name\):) Tj T* (    print\("Hello", name\)) Tj T* (greet\("Kuvalesh"\)) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 412.6614 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (return) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 397.8268 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Sends a result back from a function.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 384.9921 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 350.5748 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 25 Tm /F3 8 Tf 11 TL (def add\(a, b\):) Tj T* (    return a + b) Tj T* (print\(add\(10, 20\)\)  # 30) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 329.0709 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Default Arguments) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 314.2362 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( A parameter already has a value if you do not provide one.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 301.4016 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 266.9843 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 25 Tm /F3 8 Tf 11 TL (def greet\(name="Student"\):) Tj T* (    print\("Hello", name\)) Tj T* (greet\(\)  # Hello Student) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 245.4803 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Keyword Arguments) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 230.6457 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Pass a value by writing the parameter name.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 217.811 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 183.3937 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 25 Tm /F3 8 Tf 11 TL (def student\(name, age\):) Tj T* (    print\(name, age\)) Tj T* (student\(age=21, name="Kuvalesh"\)) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 161.8898 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (*args) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 147.0551 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Lets a function receive many positional values as a tuple.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 134.2205 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 99.80315 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 25 Tm /F3 8 Tf 11 TL (def add\(*numbers\):) Tj T* (    print\(numbers\)) Tj T* (add\(10, 20, 30\)  # \(10, 20, 30\)) Tj T* ET
+Q
+ 
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.101961 0.321569 0.462745 RG
+1.8 w
+n
+28.34646 28.34646 538.5827 785.1969 re
+S
+0.7 w
+n
+36.85039 36.85039 521.5748 768.189 re
+S
+1.2 w
+n
+28.34646 802.2047 m
+28.34646 813.5433 l
+S
+n
+28.34646 813.5433 m
+39.68504 813.5433 l
+S
+n
+555.5906 813.5433 m
+566.9291 813.5433 l
+S
+n
+566.9291 813.5433 m
+566.9291 802.2047 l
+S
+n
+28.34646 28.34646 m
+28.34646 39.68504 l
+S
+n
+28.34646 28.34646 m
+39.68504 28.34646 l
+S
+n
+555.5906 28.34646 m
+566.9291 28.34646 l
+S
+n
+566.9291 28.34646 m
+566.9291 39.68504 l
+S
+Q
+
+endstream
+endobj
+26 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+27 0 obj
+<<
+/Contents 28 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 29 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+28 0 obj
+<<
+/Length 6736
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.168627 .423529 .690196 RG
+.6 w
+n 51.02362 813.5433 m 544.252 813.5433 l S
+BT /F1 7.5 Tf 9 TL ET
+.443137 .501961 .588235 rg
+BT 1 0 0 1 228.7165 22.67717 Tm (Python Basics \227 Simple Notes  |  Page 7) Tj T* ET
+.886275 .909804 .941176 RG
+.4 w
+n 51.02362 34.01575 m 544.252 34.01575 l S
+Q
+q
+1 0 0 1 57.02362 766.1969 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (**kwargs) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 751.3622 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Lets a function receive many key-value arguments as a dictionary.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 738.5276 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 704.1102 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 25 Tm /F3 8 Tf 11 TL (def student\(**details\):) Tj T* (    print\(details\)) Tj T* (student\(name="Kuvalesh", age=21\)) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 682.6063 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Scope) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 667.7717 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( The area where a variable can be used \(local vs global\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 654.937 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 609.5197 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 36 Tm /F3 8 Tf 11 TL (def test\(\):) Tj T* (    x = 10  # local) Tj T* (    print\(x\)) Tj T* (test\(\)) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 588.0157 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Lambda) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 573.1811 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( A small one-line anonymous function.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 560.3465 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 536.9291 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 14 Tm /F3 8 Tf 11 TL (square = lambda x: x * x) Tj T* (print\(square\(5\)\)  # 25) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 506.7559 cm
+q
+.101961 .211765 .364706 rg
+BT 1 0 0 1 0 3 Tm /F2 13 Tf 16 TL (6. Strings) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 485.252 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Indexing and Slicing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 470.4173 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Use positions or ranges to get parts of text.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 457.5827 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 423.1654 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 25 Tm /F3 8 Tf 11 TL (text = "Python") Tj T* (print\(text[0]\)    # P) Tj T* (print\(text[1:4]\)  # yth) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 401.6614 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (split\(\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 386.8268 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Breaks a string into a list of pieces.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 373.9921 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 361.5748 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 3 Tm /F3 8 Tf 11 TL (print\("I love Python".split\(\)\)  # ["I", "love", "Python"]) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 340.0709 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (join\(\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 325.2362 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Joins multiple strings together.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 312.4016 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 288.9843 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 14 Tm /F3 8 Tf 11 TL (words = ["I", "love", "Python"]) Tj T* (print\(" ".join\(words\)\)  # I love Python) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 267.4803 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (replace\(\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 252.6457 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Replaces one piece of text with another.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 239.811 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 227.3937 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 3 Tm /F3 8 Tf 11 TL (print\("I like Java".replace\("Java", "Python"\)\)) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 205.8898 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (strip\(\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 191.0551 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Removes extra spaces \(or characters\) from the beginning and end.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 178.2205 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 165.8031 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 3 Tm /F3 8 Tf 11 TL (print\("  Kuvalesh  ".strip\(\)\)  # Kuvalesh) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 144.2992 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (lower\(\) / upper\(\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 129.4646 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Changes text to lowercase or uppercase.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 116.6299 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 93.2126 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 14 Tm /F3 8 Tf 11 TL (print\("HELLO".lower\(\)\)  # hello) Tj T* (print\("hello".upper\(\)\)  # HELLO) Tj T* ET
+Q
+ 
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.101961 0.321569 0.462745 RG
+1.8 w
+n
+28.34646 28.34646 538.5827 785.1969 re
+S
+0.7 w
+n
+36.85039 36.85039 521.5748 768.189 re
+S
+1.2 w
+n
+28.34646 802.2047 m
+28.34646 813.5433 l
+S
+n
+28.34646 813.5433 m
+39.68504 813.5433 l
+S
+n
+555.5906 813.5433 m
+566.9291 813.5433 l
+S
+n
+566.9291 813.5433 m
+566.9291 802.2047 l
+S
+n
+28.34646 28.34646 m
+28.34646 39.68504 l
+S
+n
+28.34646 28.34646 m
+39.68504 28.34646 l
+S
+n
+555.5906 28.34646 m
+566.9291 28.34646 l
+S
+n
+566.9291 28.34646 m
+566.9291 39.68504 l
+S
+Q
+
+endstream
+endobj
+29 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+30 0 obj
+<<
+/Contents 31 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 32 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+31 0 obj
+<<
+/Length 6963
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.168627 .423529 .690196 RG
+.6 w
+n 51.02362 813.5433 m 544.252 813.5433 l S
+BT /F1 7.5 Tf 9 TL ET
+.443137 .501961 .588235 rg
+BT 1 0 0 1 228.7165 22.67717 Tm (Python Basics \227 Simple Notes  |  Page 8) Tj T* ET
+.886275 .909804 .941176 RG
+.4 w
+n 51.02362 34.01575 m 544.252 34.01575 l S
+Q
+q
+1 0 0 1 57.02362 766.1969 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (find\(\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 751.3622 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Finds the starting position of text \() Tj /F5 9 Tf 12 TL (-) Tj /F1 9 Tf 12 TL (1 if not found\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 738.5276 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 726.1102 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 3 Tm /F3 8 Tf 11 TL (print\("Python".find\("t"\)\)  # 2) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 704.6063 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (count\(\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 689.7717 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Counts how many times a substring appears.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 676.937 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 664.5197 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 3 Tm /F3 8 Tf 11 TL (print\("banana".count\("a"\)\)  # 3) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 643.0157 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (f-strings) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 628.1811 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Easy way to put variables inside text \(Python 3.6+\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 615.3465 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 580.9291 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 25 Tm /F3 8 Tf 11 TL (name = "Kuvalesh") Tj T* (age = 21) Tj T* (print\(f"My name is {name} and I am {age}"\)) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 550.7559 cm
+q
+.101961 .211765 .364706 rg
+BT 1 0 0 1 0 3 Tm /F2 13 Tf 16 TL (7. File Handling) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 529.252 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (open\(\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 514.4173 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Opens a file so Python can work with it. Prefer the with form.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 501.5827 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 489.1654 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 3 Tm /F3 8 Tf 11 TL (file = open\("hello.txt", "r"\)  # older style) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 467.6614 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Reading) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 452.8268 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Gets content from a file.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 439.9921 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 405.5748 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 25 Tm /F3 8 Tf 11 TL (with open\("hello.txt", "r"\) as file:) Tj T* (    data = file.read\(\)) Tj T* (    print\(data\)) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 384.0709 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Writing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 369.2362 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Creates or replaces file content \(mode 'w'\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 356.4016 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 332.9843 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 14 Tm /F3 8 Tf 11 TL (with open\("hello.txt", "w"\) as file:) Tj T* (    file.write\("Hello Python"\)) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 311.4803 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Appending) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 296.6457 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Adds content without replacing existing content \(mode 'a'\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 283.811 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 260.3937 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 14 Tm /F3 8 Tf 11 TL (with open\("hello.txt", "a"\) as file:) Tj T* (    file.write\("\\nNew line"\)) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 238.8898 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (with open\(\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 224.0551 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( A safer way to work with files because Python handles closing the file automatically.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 211.2205 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 187.8031 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 14 Tm /F3 8 Tf 11 TL (with open\("hello.txt", "r"\) as file:) Tj T* (    print\(file.read\(\)\)) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 166.2992 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (TXT, CSV and JSON) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 151.4646 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Python can read and write common text, table and structured-data files.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 138.6299 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 104.2126 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 25 Tm /F3 8 Tf 11 TL (import json) Tj T* (data = {"name": "Kuvalesh"}) Tj T* (text = json.dumps\(data\)) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 74.03937 cm
+q
+.101961 .211765 .364706 rg
+BT 1 0 0 1 0 3 Tm /F2 13 Tf 16 TL (8. Exception Handling) Tj T* ET
+Q
+Q
+ 
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.101961 0.321569 0.462745 RG
+1.8 w
+n
+28.34646 28.34646 538.5827 785.1969 re
+S
+0.7 w
+n
+36.85039 36.85039 521.5748 768.189 re
+S
+1.2 w
+n
+28.34646 802.2047 m
+28.34646 813.5433 l
+S
+n
+28.34646 813.5433 m
+39.68504 813.5433 l
+S
+n
+555.5906 813.5433 m
+566.9291 813.5433 l
+S
+n
+566.9291 813.5433 m
+566.9291 802.2047 l
+S
+n
+28.34646 28.34646 m
+28.34646 39.68504 l
+S
+n
+28.34646 28.34646 m
+39.68504 28.34646 l
+S
+n
+555.5906 28.34646 m
+566.9291 28.34646 l
+S
+n
+566.9291 28.34646 m
+566.9291 39.68504 l
+S
+Q
+
+endstream
+endobj
+32 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+33 0 obj
+<<
+/Contents 34 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 35 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+34 0 obj
+<<
+/Length 6095
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.168627 .423529 .690196 RG
+.6 w
+n 51.02362 813.5433 m 544.252 813.5433 l S
+BT /F1 7.5 Tf 9 TL ET
+.443137 .501961 .588235 rg
+BT 1 0 0 1 228.7165 22.67717 Tm (Python Basics \227 Simple Notes  |  Page 9) Tj T* ET
+.886275 .909804 .941176 RG
+.4 w
+n 51.02362 34.01575 m 544.252 34.01575 l S
+Q
+q
+1 0 0 1 57.02362 766.1969 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (try) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 751.3622 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Contains code that might cause an error.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 738.5276 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 715.1102 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 14 Tm /F3 8 Tf 11 TL (try:) Tj T* (    x = 10 / 0) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 693.6063 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (except) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 678.7717 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Handles the error so the program does not crash.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 665.937 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 620.5197 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 36 Tm /F3 8 Tf 11 TL (try:) Tj T* (    x = 10 / 0) Tj T* (except ZeroDivisionError:) Tj T* (    print\("Cannot divide by zero"\)) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 599.0157 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (else) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 584.1811 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Runs when no error happens inside the try block.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 571.3465 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 503.9291 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 58 Tm /F3 8 Tf 11 TL (try:) Tj T* (    x = 10 / 2) Tj T* (except:) Tj T* (    print\("Error"\)) Tj T* (else:) Tj T* (    print\("Success"\)) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 482.4252 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (finally) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 467.5906 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Runs whether there is an error or not \(cleanup code\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 454.7559 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 409.3386 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 36 Tm /F3 8 Tf 11 TL (try:) Tj T* (    print\("Hello"\)) Tj T* (finally:) Tj T* (    print\("Finished"\)) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 387.8346 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (raise) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 373 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Creates an error intentionally when a rule is broken.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 360.1654 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 325.748 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 25 Tm /F3 8 Tf 11 TL (age = 15) Tj T* (if age &lt; 18:) Tj T* (    raise ValueError\("Under 18"\)) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 304.2441 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Common Errors) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 289.4094 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( ValueError can happen with a bad value; ZeroDivisionError happens when dividing by zero.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 276.5748 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 264.1575 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 3 Tm /F3 8 Tf 11 TL (age = int\("abc"\)  # ValueError) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 233.9843 cm
+q
+.101961 .211765 .364706 rg
+BT 1 0 0 1 0 3 Tm /F2 13 Tf 16 TL (9. Modules and Packages) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 212.4803 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (import) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 197.6457 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Brings a whole module into your program.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 184.811 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 161.3937 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 14 Tm /F3 8 Tf 11 TL (import math) Tj T* (print\(math.sqrt\(25\)\)  # 5.0) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 139.8898 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (from ... import) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 125.0551 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Imports a specific item from a module.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 112.2205 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 88.80315 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 14 Tm /F3 8 Tf 11 TL (from math import sqrt) Tj T* (print\(sqrt\(25\)\)) Tj T* ET
+Q
+ 
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.101961 0.321569 0.462745 RG
+1.8 w
+n
+28.34646 28.34646 538.5827 785.1969 re
+S
+0.7 w
+n
+36.85039 36.85039 521.5748 768.189 re
+S
+1.2 w
+n
+28.34646 802.2047 m
+28.34646 813.5433 l
+S
+n
+28.34646 813.5433 m
+39.68504 813.5433 l
+S
+n
+555.5906 813.5433 m
+566.9291 813.5433 l
+S
+n
+566.9291 813.5433 m
+566.9291 802.2047 l
+S
+n
+28.34646 28.34646 m
+28.34646 39.68504 l
+S
+n
+28.34646 28.34646 m
+39.68504 28.34646 l
+S
+n
+555.5906 28.34646 m
+566.9291 28.34646 l
+S
+n
+566.9291 28.34646 m
+566.9291 39.68504 l
+S
+Q
+
+endstream
+endobj
+35 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+36 0 obj
+<<
+/Contents 37 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 38 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+37 0 obj
+<<
+/Length 6211
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.168627 .423529 .690196 RG
+.6 w
+n 51.02362 813.5433 m 544.252 813.5433 l S
+BT /F1 7.5 Tf 9 TL ET
+.443137 .501961 .588235 rg
+BT 1 0 0 1 226.6315 22.67717 Tm (Python Basics \227 Simple Notes  |  Page 10) Tj T* ET
+.886275 .909804 .941176 RG
+.4 w
+n 51.02362 34.01575 m 544.252 34.01575 l S
+Q
+q
+1 0 0 1 57.02362 766.1969 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Creating your own module) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 751.3622 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Put reusable functions in another .py file and import them.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 738.5276 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 660.1102 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 69 Tm /F3 8 Tf 11 TL (# calculator.py) Tj T* (def add\(a, b\):) Tj T* (    return a + b) Tj T*  T* (# main.py) Tj T* (from calculator import add) Tj T* (print\(add\(3, 4\)\)) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 638.6063 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (pip) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 623.7717 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Installs Python packages from PyPI.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 610.937 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 598.5197 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 3 Tm /F3 8 Tf 11 TL (pip install requests) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 577.0157 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Virtual Environments) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 562.1811 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Keep project dependencies separate from other projects.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 549.3465 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 514.9291 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 25 Tm /F3 8 Tf 11 TL (python -m venv myenv) Tj T* (# activate: source myenv/bin/activate  \(Linux/Mac\)) Tj T* (#           myenv\\Scripts\\activate     \(Windows\)) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 493.4252 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (requirements.txt) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 478.5906 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( A file listing the packages a project needs.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 465.7559 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 420.3386 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 36 Tm /F3 8 Tf 11 TL (requests) Tj T* (pandas) Tj T* (numpy) Tj T* (# install with: pip install -r requirements.txt) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 398.8346 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Useful built-in modules) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 384 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( math, random, datetime, os, sys, json and re provide common functionality.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 371.1654 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 336.748 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 25 Tm /F3 8 Tf 11 TL (import math) Tj T* (import random) Tj T* (import datetime) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 306.5748 cm
+q
+.101961 .211765 .364706 rg
+BT 1 0 0 1 0 3 Tm /F2 13 Tf 16 TL (10. Object-Oriented Programming) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 285.0709 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Class) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 270.2362 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( A blueprint used to create objects.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 257.4016 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 233.9843 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 14 Tm /F3 8 Tf 11 TL (class Student:) Tj T* (    pass) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 212.4803 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Object) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 197.6457 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( A thing created from a class \(an instance\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 184.811 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 172.3937 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 3 Tm /F3 8 Tf 11 TL (student1 = Student\(\)) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 150.8898 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (__init__) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 136.0551 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Runs automatically when an object is created \(constructor\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 123.2205 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 88.80315 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 25 Tm /F3 8 Tf 11 TL (class Student:) Tj T* (    def __init__\(self, name\):) Tj T* (        self.name = name) Tj T* ET
+Q
+ 
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.101961 0.321569 0.462745 RG
+1.8 w
+n
+28.34646 28.34646 538.5827 785.1969 re
+S
+0.7 w
+n
+36.85039 36.85039 521.5748 768.189 re
+S
+1.2 w
+n
+28.34646 802.2047 m
+28.34646 813.5433 l
+S
+n
+28.34646 813.5433 m
+39.68504 813.5433 l
+S
+n
+555.5906 813.5433 m
+566.9291 813.5433 l
+S
+n
+566.9291 813.5433 m
+566.9291 802.2047 l
+S
+n
+28.34646 28.34646 m
+28.34646 39.68504 l
+S
+n
+28.34646 28.34646 m
+39.68504 28.34646 l
+S
+n
+555.5906 28.34646 m
+566.9291 28.34646 l
+S
+n
+566.9291 28.34646 m
+566.9291 39.68504 l
+S
+Q
+
+endstream
+endobj
+38 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+39 0 obj
+<<
+/Contents 40 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 41 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+40 0 obj
+<<
+/Length 5864
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.168627 .423529 .690196 RG
+.6 w
+n 51.02362 813.5433 m 544.252 813.5433 l S
+BT /F1 7.5 Tf 9 TL ET
+.443137 .501961 .588235 rg
+BT 1 0 0 1 226.6315 22.67717 Tm (Python Basics \227 Simple Notes  |  Page 11) Tj T* ET
+.886275 .909804 .941176 RG
+.4 w
+n 51.02362 34.01575 m 544.252 34.01575 l S
+Q
+q
+1 0 0 1 57.02362 766.1969 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Instance Variables and Methods) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 751.3622 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Variables store object data; methods are functions inside a class.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 738.5276 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 649.1102 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 80 Tm /F3 8 Tf 11 TL (class Student:) Tj T* (    def __init__\(self, name\):) Tj T* (        self.name = name) Tj T* (    def greet\(self\):) Tj T* (        print\("Hello", self.name\)) Tj T*  T* (s = Student\("Kuvalesh"\)) Tj T* (s.greet\(\)) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 627.6063 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Inheritance) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 612.7717 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( A child class can get features from a parent class.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 599.937 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 499.5197 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 91 Tm /F3 8 Tf 11 TL (class Animal:) Tj T* (    def eat\(self\):) Tj T* (        print\("Eating"\)) Tj T*  T* (class Dog\(Animal\):) Tj T* (    pass) Tj T*  T* (d = Dog\(\)) Tj T* (d.eat\(\)  # Eating) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 478.0157 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Encapsulation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 463.1811 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Keeps data and the code that uses it together and can restrict direct access.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 450.3465 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 415.9291 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 25 Tm /F3 8 Tf 11 TL (class Bank:) Tj T* (    def __init__\(self\):) Tj T* (        self.__balance = 1000  # name-mangled) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 394.4252 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Polymorphism) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 379.5906 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( The same method name can behave differently for different objects.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 366.7559 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 321.3386 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 36 Tm /F3 8 Tf 11 TL (class Dog:) Tj T* (    def sound\(self\): print\("Bark"\)) Tj T* (class Cat:) Tj T* (    def sound\(self\): print\("Meow"\)) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 299.8346 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Abstraction) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 285 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Shows what is needed while hiding complicated internal details.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 272.1654 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 259.748 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 3 Tm /F3 8 Tf 11 TL (print\("Hello"\)  # You use it without knowing its internal implementation) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 229.5748 cm
+q
+.101961 .211765 .364706 rg
+BT 1 0 0 1 0 3 Tm /F2 13 Tf 16 TL (11. Intermediate Python) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 208.0709 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (List Comprehension) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 193.2362 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Short way to create a list.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 180.4016 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 167.9843 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 3 Tm /F3 8 Tf 11 TL (numbers = [i for i in range\(5\)]  # [0, 1, 2, 3, 4]) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 146.4803 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Dictionary Comprehension) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 131.6457 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Short way to create a dictionary.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 118.811 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 106.3937 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 3 Tm /F3 8 Tf 11 TL (squares = {i: i*i for i in range\(5\)}) Tj T* ET
+Q
+ 
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.101961 0.321569 0.462745 RG
+1.8 w
+n
+28.34646 28.34646 538.5827 785.1969 re
+S
+0.7 w
+n
+36.85039 36.85039 521.5748 768.189 re
+S
+1.2 w
+n
+28.34646 802.2047 m
+28.34646 813.5433 l
+S
+n
+28.34646 813.5433 m
+39.68504 813.5433 l
+S
+n
+555.5906 813.5433 m
+566.9291 813.5433 l
+S
+n
+566.9291 813.5433 m
+566.9291 802.2047 l
+S
+n
+28.34646 28.34646 m
+28.34646 39.68504 l
+S
+n
+28.34646 28.34646 m
+39.68504 28.34646 l
+S
+n
+555.5906 28.34646 m
+566.9291 28.34646 l
+S
+n
+566.9291 28.34646 m
+566.9291 39.68504 l
+S
+Q
+
+endstream
+endobj
+41 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+42 0 obj
+<<
+/Contents 43 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 44 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+43 0 obj
+<<
+/Length 6098
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.168627 .423529 .690196 RG
+.6 w
+n 51.02362 813.5433 m 544.252 813.5433 l S
+BT /F1 7.5 Tf 9 TL ET
+.443137 .501961 .588235 rg
+BT 1 0 0 1 226.6315 22.67717 Tm (Python Basics \227 Simple Notes  |  Page 12) Tj T* ET
+.886275 .909804 .941176 RG
+.4 w
+n 51.02362 34.01575 m 544.252 34.01575 l S
+Q
+q
+1 0 0 1 57.02362 766.1969 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Set Comprehension) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 751.3622 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Short way to create a set.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 738.5276 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 726.1102 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 3 Tm /F3 8 Tf 11 TL (squares = {i*i for i in range\(5\)}) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 704.6063 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Iterators) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 689.7717 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Give values one by one using next\(\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 676.937 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 653.5197 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 14 Tm /F3 8 Tf 11 TL (numbers = iter\([10, 20, 30]\)) Tj T* (print\(next\(numbers\)\)  # 10) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 632.0157 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Generators) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 617.1811 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Produce values one at a time using yield \(memory efficient\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 604.3465 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 536.9291 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 58 Tm /F3 8 Tf 11 TL (def numbers\(\):) Tj T* (    yield 1) Tj T* (    yield 2) Tj T*  T* (for n in numbers\(\):) Tj T* (    print\(n\)) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 515.4252 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Decorators) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 500.5906 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Add extra behavior to a function without changing its code.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 487.7559 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 431.3386 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 47 Tm /F3 8 Tf 11 TL (def decorator\(func\):) Tj T* (    def wrapper\(\):) Tj T* (        print\("Before"\)) Tj T* (        func\(\)) Tj T* (    return wrapper) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 409.8346 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Regular Expressions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 395 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Find patterns in text \(import re\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 382.1654 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 358.748 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 14 Tm /F3 8 Tf 11 TL (import re) Tj T* (result = re.search\(r"\\d{10}", "9876543210"\)) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 337.2441 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (map\(\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 322.4094 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Applies a function to each item of an iterable.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 309.5748 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 286.1575 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 14 Tm /F3 8 Tf 11 TL (numbers = [1, 2, 3]) Tj T* (print\(list\(map\(lambda x: x*2, numbers\)\)\)  # [2, 4, 6]) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 264.6535 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (filter\(\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 249.8189 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Keeps items that satisfy a condition.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 236.9843 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 213.5669 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 14 Tm /F3 8 Tf 11 TL (numbers = [1, 2, 3, 4]) Tj T* (print\(list\(filter\(lambda x: x % 2 == 0, numbers\)\)\)  # [2, 4]) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 192.063 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (reduce\(\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 177.2283 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Combines items into one result \(from functools\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 164.3937 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 140.9764 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 14 Tm /F3 8 Tf 11 TL (from functools import reduce) Tj T* (print\(reduce\(lambda a, b: a + b, [1, 2, 3, 4]\)\)  # 10) Tj T* ET
+Q
+ 
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.101961 0.321569 0.462745 RG
+1.8 w
+n
+28.34646 28.34646 538.5827 785.1969 re
+S
+0.7 w
+n
+36.85039 36.85039 521.5748 768.189 re
+S
+1.2 w
+n
+28.34646 802.2047 m
+28.34646 813.5433 l
+S
+n
+28.34646 813.5433 m
+39.68504 813.5433 l
+S
+n
+555.5906 813.5433 m
+566.9291 813.5433 l
+S
+n
+566.9291 813.5433 m
+566.9291 802.2047 l
+S
+n
+28.34646 28.34646 m
+28.34646 39.68504 l
+S
+n
+28.34646 28.34646 m
+39.68504 28.34646 l
+S
+n
+555.5906 28.34646 m
+566.9291 28.34646 l
+S
+n
+566.9291 28.34646 m
+566.9291 39.68504 l
+S
+Q
+
+endstream
+endobj
+44 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+45 0 obj
+<<
+/Contents 46 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 47 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+46 0 obj
+<<
+/Length 6133
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.168627 .423529 .690196 RG
+.6 w
+n 51.02362 813.5433 m 544.252 813.5433 l S
+BT /F1 7.5 Tf 9 TL ET
+.443137 .501961 .588235 rg
+BT 1 0 0 1 226.6315 22.67717 Tm (Python Basics \227 Simple Notes  |  Page 13) Tj T* ET
+.886275 .909804 .941176 RG
+.4 w
+n 51.02362 34.01575 m 544.252 34.01575 l S
+Q
+q
+1 0 0 1 57.02362 766.1969 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (zip\(\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 751.3622 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Pairs items from multiple sequences.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 738.5276 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 704.1102 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 25 Tm /F3 8 Tf 11 TL (names = ["A", "B"]) Tj T* (marks = [80, 90]) Tj T* (print\(list\(zip\(names, marks\)\)\)  # [\("A", 80\), \("B", 90\)]) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 682.6063 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (enumerate\(\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 667.7717 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Gives both index and value while looping.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 654.937 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 631.5197 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 14 Tm /F3 8 Tf 11 TL (for i, name in enumerate\(["A", "B"]\):) Tj T* (    print\(i, name\)) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 610.0157 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Context Managers) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 595.1811 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Manage resources safely, commonly with the with statement.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 582.3465 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 558.9291 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 14 Tm /F3 8 Tf 11 TL (with open\("hello.txt"\) as file:) Tj T* (    data = file.read\(\)) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 537.4252 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Type Hints) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 522.5906 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Show expected data types in code \(helps readability and tools\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 509.7559 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 486.3386 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 14 Tm /F3 8 Tf 11 TL (def add\(a: int, b: int\) -&gt; int:) Tj T* (    return a + b) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 464.8346 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Dataclasses) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 450 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Make simple data-holding classes easier to write.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 437.1654 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 369.748 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 58 Tm /F3 8 Tf 11 TL (from dataclasses import dataclass) Tj T*  T* (@dataclass) Tj T* (class Student:) Tj T* (    name: str) Tj T* (    age: int) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 339.5748 cm
+q
+.101961 .211765 .364706 rg
+BT 1 0 0 1 0 3 Tm /F2 13 Tf 16 TL (12. Python for Cybersecurity) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 318.0709 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (os) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 303.2362 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Interact with the operating system \(paths, directories, environment\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 290.4016 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 266.9843 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 14 Tm /F3 8 Tf 11 TL (import os) Tj T* (print\(os.getcwd\(\)\)) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 245.4803 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (sys) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 230.6457 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Access Python runtime and command-line information.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 217.811 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 194.3937 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 14 Tm /F3 8 Tf 11 TL (import sys) Tj T* (print\(sys.version\)) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 172.8898 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (subprocess) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 158.0551 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Run system commands from Python.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 145.2205 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 121.8031 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 14 Tm /F3 8 Tf 11 TL (import subprocess) Tj T* (subprocess.run\(["ls"]\)) Tj T* ET
+Q
+ 
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.101961 0.321569 0.462745 RG
+1.8 w
+n
+28.34646 28.34646 538.5827 785.1969 re
+S
+0.7 w
+n
+36.85039 36.85039 521.5748 768.189 re
+S
+1.2 w
+n
+28.34646 802.2047 m
+28.34646 813.5433 l
+S
+n
+28.34646 813.5433 m
+39.68504 813.5433 l
+S
+n
+555.5906 813.5433 m
+566.9291 813.5433 l
+S
+n
+566.9291 813.5433 m
+566.9291 802.2047 l
+S
+n
+28.34646 28.34646 m
+28.34646 39.68504 l
+S
+n
+28.34646 28.34646 m
+39.68504 28.34646 l
+S
+n
+555.5906 28.34646 m
+566.9291 28.34646 l
+S
+n
+566.9291 28.34646 m
+566.9291 39.68504 l
+S
+Q
+
+endstream
+endobj
+47 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+48 0 obj
+<<
+/Contents 49 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 50 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+49 0 obj
+<<
+/Length 6696
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.168627 .423529 .690196 RG
+.6 w
+n 51.02362 813.5433 m 544.252 813.5433 l S
+BT /F1 7.5 Tf 9 TL ET
+.443137 .501961 .588235 rg
+BT 1 0 0 1 226.6315 22.67717 Tm (Python Basics \227 Simple Notes  |  Page 14) Tj T* ET
+.886275 .909804 .941176 RG
+.4 w
+n 51.02362 34.01575 m 544.252 34.01575 l S
+Q
+q
+1 0 0 1 57.02362 766.1969 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (socket) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 751.3622 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Build network communication between programs.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 738.5276 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 715.1102 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 14 Tm /F3 8 Tf 11 TL (import socket) Tj T* (s = socket.socket\(\)) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 693.6063 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (requests) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 678.7717 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Send HTTP requests to websites and APIs.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 665.937 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 631.5197 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 25 Tm /F3 8 Tf 11 TL (import requests) Tj T* (r = requests.get\("https://example.com"\)) Tj T* (print\(r.status_code\)) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 610.0157 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (json) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 595.1811 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Work with structured data commonly used by APIs.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 582.3465 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 558.9291 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 14 Tm /F3 8 Tf 11 TL (import json) Tj T* (data = {"name": "Kuvalesh"}) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 537.4252 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (re) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 522.5906 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Find patterns in text \227 useful for log and data analysis.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 509.7559 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 486.3386 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 14 Tm /F3 8 Tf 11 TL (import re) Tj T* (print\(re.findall\(r"\\d+", "ID 123"\)\)  # ["123"]) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 464.8346 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (hashlib) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 450 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Create hashes for integrity and security-related tasks.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 437.1654 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 413.748 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 14 Tm /F3 8 Tf 11 TL (import hashlib) Tj T* (print\(hashlib.sha256\(b"hello"\).hexdigest\(\)\)) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 392.2441 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (base64) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 377.4094 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Encode or decode data \(it is not encryption\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 364.5748 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 341.1575 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 14 Tm /F3 8 Tf 11 TL (import base64) Tj T* (print\(base64.b64encode\(b"hello"\)\)) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 319.6535 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (scapy) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 304.8189 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Analyze and create network packets for controlled network experimentation.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 291.9843 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 268.5669 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 14 Tm /F3 8 Tf 11 TL (from scapy.all import IP) Tj T* (packet = IP\(\)) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 247.063 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (logging) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 232.2283 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Record events, warnings and errors.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 219.3937 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 195.9764 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 14 Tm /F3 8 Tf 11 TL (import logging) Tj T* (logging.warning\("Something happened"\)) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 174.4724 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (File handling for security) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 159.6378 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Read logs and files for analysis and integrity-related tools.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 146.8031 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 123.3858 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 14 Tm /F3 8 Tf 11 TL (with open\("app.log", "r"\) as file:) Tj T* (    logs = file.read\(\)) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 93.2126 cm
+q
+.101961 .211765 .364706 rg
+BT 1 0 0 1 0 3 Tm /F2 13 Tf 16 TL (13. Python for AI / ML) Tj T* ET
+Q
+Q
+ 
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.101961 0.321569 0.462745 RG
+1.8 w
+n
+28.34646 28.34646 538.5827 785.1969 re
+S
+0.7 w
+n
+36.85039 36.85039 521.5748 768.189 re
+S
+1.2 w
+n
+28.34646 802.2047 m
+28.34646 813.5433 l
+S
+n
+28.34646 813.5433 m
+39.68504 813.5433 l
+S
+n
+555.5906 813.5433 m
+566.9291 813.5433 l
+S
+n
+566.9291 813.5433 m
+566.9291 802.2047 l
+S
+n
+28.34646 28.34646 m
+28.34646 39.68504 l
+S
+n
+28.34646 28.34646 m
+39.68504 28.34646 l
+S
+n
+555.5906 28.34646 m
+566.9291 28.34646 l
+S
+n
+566.9291 28.34646 m
+566.9291 39.68504 l
+S
+Q
+
+endstream
+endobj
+50 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+51 0 obj
+<<
+/Contents 52 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 53 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+52 0 obj
+<<
+/Length 7050
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.168627 .423529 .690196 RG
+.6 w
+n 51.02362 813.5433 m 544.252 813.5433 l S
+BT /F1 7.5 Tf 9 TL ET
+.443137 .501961 .588235 rg
+BT 1 0 0 1 226.6315 22.67717 Tm (Python Basics \227 Simple Notes  |  Page 15) Tj T* ET
+.886275 .909804 .941176 RG
+.4 w
+n 51.02362 34.01575 m 544.252 34.01575 l S
+Q
+q
+1 0 0 1 57.02362 766.1969 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (NumPy) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 751.3622 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Works with numbers, arrays and mathematical operations.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 738.5276 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 704.1102 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 25 Tm /F3 8 Tf 11 TL (import numpy as np) Tj T* (numbers = np.array\([1, 2, 3]\)) Tj T* (print\(numbers * 2\)  # [2 4 6]) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 682.6063 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Pandas) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 667.7717 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Works with tables and datasets \(DataFrames\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 654.937 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 620.5197 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 25 Tm /F3 8 Tf 11 TL (import pandas as pd) Tj T* (df = pd.DataFrame\({"Name": ["A", "B"], "Age": [20, 21]}\)) Tj T* (print\(df\)) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 599.0157 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Matplotlib) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 584.1811 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Creates graphs and charts.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 571.3465 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 536.9291 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 25 Tm /F3 8 Tf 11 TL (import matplotlib.pyplot as plt) Tj T* (plt.plot\([1, 2, 3], [10, 20, 30]\)) Tj T* (plt.show\(\)) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 515.4252 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Scikit-learn) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 500.5906 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Provides tools for machine learning models.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 487.7559 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 464.3386 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 14 Tm /F3 8 Tf 11 TL (from sklearn.linear_model import LinearRegression) Tj T* (model = LinearRegression\(\)) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 442.8346 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (PyTorch / TensorFlow) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 428 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Frameworks used for deep learning and advanced AI.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 415.1654 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 391.748 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 14 Tm /F3 8 Tf 11 TL (import torch) Tj T* (# or: import tensorflow as tf) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 361.5748 cm
+q
+BT 1 0 0 1 0 3 Tm 16 TL /F2 13 Tf .101961 .211765 .364706 rg (14. Recommended Learning Order & Practice) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 342.4882 cm
+q
+.176471 .215686 .282353 rg
+BT 1 0 0 1 5.669291 3 Tm /F2 9 Tf 12 TL (Suggested sequence:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 327.6535 cm
+q
+.176471 .215686 .282353 rg
+BT 1 0 0 1 11.33858 3 Tm /F1 9 Tf 12 TL (1. Python basics \(variables, types, operators\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 315.6535 cm
+q
+.176471 .215686 .282353 rg
+BT 1 0 0 1 11.33858 3 Tm /F1 9 Tf 12 TL (2. Data structures \(list, tuple, set, dict\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 303.6535 cm
+q
+.176471 .215686 .282353 rg
+BT 1 0 0 1 11.33858 3 Tm /F1 9 Tf 12 TL (3. Functions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 291.6535 cm
+q
+.176471 .215686 .282353 rg
+BT 1 0 0 1 11.33858 3 Tm /F1 9 Tf 12 TL (4. File handling) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 279.6535 cm
+q
+.176471 .215686 .282353 rg
+BT 1 0 0 1 11.33858 3 Tm /F1 9 Tf 12 TL (5. Exception handling) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 267.6535 cm
+q
+BT 1 0 0 1 11.33858 3 Tm 12 TL /F1 9 Tf .176471 .215686 .282353 rg (6. Modules & packages) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 255.6535 cm
+q
+.176471 .215686 .282353 rg
+BT 1 0 0 1 11.33858 3 Tm /F1 9 Tf 12 TL (7. Object-Oriented Programming) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 243.6535 cm
+q
+.176471 .215686 .282353 rg
+BT 1 0 0 1 11.33858 3 Tm /F1 9 Tf 12 TL (8. JSON and Regular Expressions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 231.6535 cm
+q
+.176471 .215686 .282353 rg
+BT 1 0 0 1 11.33858 3 Tm /F1 9 Tf 12 TL (9. OS and subprocess) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 219.6535 cm
+q
+.176471 .215686 .282353 rg
+BT 1 0 0 1 11.33858 3 Tm /F1 9 Tf 12 TL (10. Networking \(socket, requests\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 207.6535 cm
+q
+.176471 .215686 .282353 rg
+BT 1 0 0 1 11.33858 3 Tm /F1 9 Tf 12 TL (11. Scapy \(controlled experiments\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 195.6535 cm
+q
+.176471 .215686 .282353 rg
+BT 1 0 0 1 11.33858 3 Tm /F1 9 Tf 12 TL (12. NumPy and Pandas) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 183.6535 cm
+q
+.176471 .215686 .282353 rg
+BT 1 0 0 1 11.33858 3 Tm /F1 9 Tf 12 TL (13. Machine Learning basics) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 177.9843 cm
+Q
+q
+1 0 0 1 57.02362 156.4803 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Practice Target) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 141.6457 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Solve 50\226100 small Python problems before moving heavily into advanced cybersecurity or AI/ML libraries.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 128.811 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 116.3937 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 3 Tm /F3 8 Tf 11 TL (Start with: even/odd, factorial, prime number, calculator, palindrome, counting characters.) Tj T* ET
+Q
+ 
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.101961 0.321569 0.462745 RG
+1.8 w
+n
+28.34646 28.34646 538.5827 785.1969 re
+S
+0.7 w
+n
+36.85039 36.85039 521.5748 768.189 re
+S
+1.2 w
+n
+28.34646 802.2047 m
+28.34646 813.5433 l
+S
+n
+28.34646 813.5433 m
+39.68504 813.5433 l
+S
+n
+555.5906 813.5433 m
+566.9291 813.5433 l
+S
+n
+566.9291 813.5433 m
+566.9291 802.2047 l
+S
+n
+28.34646 28.34646 m
+28.34646 39.68504 l
+S
+n
+28.34646 28.34646 m
+39.68504 28.34646 l
+S
+n
+555.5906 28.34646 m
+566.9291 28.34646 l
+S
+n
+566.9291 28.34646 m
+566.9291 39.68504 l
+S
+Q
+
+endstream
+endobj
+53 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+54 0 obj
+<<
+/Contents 55 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 56 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+55 0 obj
+<<
+/Length 2130
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.168627 .423529 .690196 RG
+.6 w
+n 51.02362 813.5433 m 544.252 813.5433 l S
+BT /F1 7.5 Tf 9 TL ET
+.443137 .501961 .588235 rg
+BT 1 0 0 1 226.6315 22.67717 Tm (Python Basics \227 Simple Notes  |  Page 16) Tj T* ET
+.886275 .909804 .941176 RG
+.4 w
+n 51.02362 34.01575 m 544.252 34.01575 l S
+Q
+q
+1 0 0 1 57.02362 766.1969 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Best Practice) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 751.3622 cm
+q
+BT 1 0 0 1 5.669291 3 Tm 12 TL /F2 9 Tf .176471 .215686 .282353 rg (Meaning:) Tj /F1 9 Tf ( Write programs yourself instead of only watching tutorials. Build a small project after each major section.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 738.5276 cm
+q
+.168627 .423529 .690196 rg
+BT 1 0 0 1 5.669291 2 Tm /F2 8 Tf 10 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 704.1102 cm
+%PreformattedPara
+.101961 .12549 .172549 rg
+BT 1 0 0 1 8.503937 25 Tm /F3 8 Tf 11 TL (Learn loops  ) Tj /F5 8 Tf 11 TL (\256) Tj /F3 8 Tf 11 TL ( make a number guessing game) Tj T* (Learn files  ) Tj /F5 8 Tf 11 TL (\256) Tj /F3 8 Tf 11 TL ( make a simple notes app) Tj T* (Learn requests ) Tj /F5 8 Tf 11 TL (\256) Tj /F3 8 Tf 11 TL ( make a simple API project) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 688.5197 cm
+Q
+q
+1 0 0 1 57.02362 686.5197 cm
+q
+1 w
+1 J
+.168627 .423529 .690196 RG
+n 0 0 m 481.2283 0 l S
+Q
+Q
+q
+1 0 0 1 57.02362 669.8504 cm
+q
+.152941 .403922 .286275 rg
+BT 1 0 0 1 5.669291 2.5 Tm /F4 8.5 Tf 11 TL (Keep coding every day. Small consistent practice beats long irregular sessions.) Tj T* ET
+Q
+Q
+ 
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.101961 0.321569 0.462745 RG
+1.8 w
+n
+28.34646 28.34646 538.5827 785.1969 re
+S
+0.7 w
+n
+36.85039 36.85039 521.5748 768.189 re
+S
+1.2 w
+n
+28.34646 802.2047 m
+28.34646 813.5433 l
+S
+n
+28.34646 813.5433 m
+39.68504 813.5433 l
+S
+n
+555.5906 813.5433 m
+566.9291 813.5433 l
+S
+n
+566.9291 813.5433 m
+566.9291 802.2047 l
+S
+n
+28.34646 28.34646 m
+28.34646 39.68504 l
+S
+n
+28.34646 28.34646 m
+39.68504 28.34646 l
+S
+n
+555.5906 28.34646 m
+566.9291 28.34646 l
+S
+n
+566.9291 28.34646 m
+566.9291 39.68504 l
+S
+Q
+
+endstream
+endobj
+56 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 57
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000219 00000 n 
+0000000268 00000 n 
+0000000543 00000 n 
+0000007605 00000 n 
+0000007712 00000 n 
+0000007819 00000 n 
+0000007931 00000 n 
+0000008036 00000 n 
+0000008152 00000 n 
+0000008230 00000 n 
+0000008508 00000 n 
+0000015145 00000 n 
+0000015253 00000 n 
+0000015531 00000 n 
+0000021185 00000 n 
+0000021293 00000 n 
+0000021571 00000 n 
+0000027746 00000 n 
+0000027854 00000 n 
+0000028132 00000 n 
+0000034914 00000 n 
+0000035022 00000 n 
+0000035300 00000 n 
+0000041605 00000 n 
+0000041713 00000 n 
+0000041991 00000 n 
+0000048780 00000 n 
+0000048888 00000 n 
+0000049166 00000 n 
+0000056182 00000 n 
+0000056290 00000 n 
+0000056568 00000 n 
+0000062716 00000 n 
+0000062824 00000 n 
+0000063102 00000 n 
+0000069366 00000 n 
+0000069474 00000 n 
+0000069752 00000 n 
+0000075669 00000 n 
+0000075777 00000 n 
+0000076055 00000 n 
+0000082206 00000 n 
+0000082314 00000 n 
+0000082592 00000 n 
+0000088778 00000 n 
+0000088886 00000 n 
+0000089164 00000 n 
+0000095913 00000 n 
+0000096021 00000 n 
+0000096299 00000 n 
+0000103402 00000 n 
+0000103510 00000 n 
+0000103788 00000 n 
+0000105971 00000 n 
+trailer
+<<
+/Size 57
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+106079
+%%EOF
