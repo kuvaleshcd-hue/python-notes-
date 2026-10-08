@@ -1,83 +1,51 @@
-# 20 Essential Coding Interview Problems
+# Python Learning & Interview Prep 🐍
 
-Clean, well-commented **Python solutions** for 20 of the most frequently asked coding interview problems.
-
-Perfect for last-minute revision and technical interview preparation.
+Welcome to the **Python Learning & Interview Prep** repository! This project serves as a comprehensive collection of notes, cheatsheets, and interview problems designed to help you master Python, from basic syntax to cracking coding interviews.
 
 ---
 
-## 📄 Contents
+## 📚 What's Included?
 
-| #  | Problem                                      | Approach Highlight                  |
-|----|----------------------------------------------|-------------------------------------|
-| 01 | Reverse a String (without slicing)           | Iteration + Two Pointers            |
-| 02 | Check if a String is a Palindrome            | Two Pointers                        |
-| 03 | Factorial (Recursive + Iterative)            | Recursion & Iteration               |
-| 04 | Generate Fibonacci Series                    | Dynamic Programming (Iterative)     |
-| 05 | Check if a Number is Prime                   | Optimized Trial Division            |
-| 06 | Find Duplicates in a List                    | Hash Set                            |
-| 07 | Count Frequency of Elements / Characters     | Hash Map / Counter                  |
-| 08 | Two Sum Problem                              | Hash Map (O(n))                     |
-| 09 | First Non-Repeating Character                | Frequency Count                     |
-| 10 | Merge Two Sorted Lists                       | Two Pointers                        |
-| 11 | Flatten a Nested List                        | Recursion                           |
-| 12 | Swap Two Numbers without Temp Variable       | Arithmetic / XOR                    |
-| 13 | Check if Two Strings are Anagrams            | Sorting / Frequency Count           |
-| 14 | FizzBuzz                                     | Classic Conditional Logic           |
-| 15 | Find Max / Min without Built-in Functions    | Linear Scan                         |
-| 16 | Remove Duplicates while Preserving Order     | Hash Set + List                     |
-| 17 | Sort a Dictionary by Values                  | `sorted()` with key                 |
-| 18 | Binary Search                                | Classic Binary Search               |
-| 19 | Detect Cycle in a Linked List                | Floyd’s Tortoise and Hare           |
-| 20 | Find the Middle of a Linked List             | Two Pointers                        |
+This repository currently contains the following resources in easy-to-read PDF formats:
+
+1. **[Python Basics Notes](Python_Basics_Notes_with_Borders.pdf)**
+   - A detailed guide covering the fundamental concepts of Python. Perfect for beginners or as a quick refresher for experienced developers.
+
+2. **[Python Cheatsheet](Python_Cheatsheet.pdf)**
+   - A rapid-fire reference guide covering basic syntax, data structures, control flow, built-in functions, and essential modules like `collections`, `itertools`, and `datetime`.
+
+3. **[20 Coding Interview Problems](20_Coding_Interview_Problems.pdf)**
+   - A curated list of 20 classic coding interview problems to test your logic and algorithmic thinking. These cover core patterns like Two Pointers, Hash Maps, Recursion, Linked Lists, and more.
 
 ---
 
-## 📁 Files
+## 🚀 How to Use This Repository
 
-- `20_Coding_Interview_Problems.pdf` → Professionally formatted PDF with page borders and page numbers
-- All solutions are written in pure Python 3 with type hints and clear comments
-
----
-
-## ✅ Features
-
-- Clear function signatures with type hints
-- Inline comments explaining the logic
-- Efficient algorithms suitable for interviews
-- Alternative approaches where relevant
-- Ready-to-use code snippets
+- **If you are a beginner:** Start with the **Python Basics Notes**. Read through the concepts and try writing some code on your own to solidify your understanding.
+- **If you need a quick reference:** Keep the **Python Cheatsheet** handy while you code. It's great for quickly looking up syntax or module functions without having to search the web.
+- **If you are preparing for an interview:** Dive straight into the **20 Coding Interview Problems**. Try solving them on a whiteboard or a blank text editor before checking for optimal solutions. Focus on time and space complexity!
 
 ---
 
-## 🚀 How to Use
+## 🗺️ Roadmap (Future Additions)
 
-1. Open the PDF and revise the problems one by one.
-2. Try solving each problem yourself before looking at the solution.
-3. Practice implementing the solutions on platforms like LeetCode, HackerRank, or locally.
-4. Focus on time & space complexity discussions during interviews.
-
----
-
-## 📌 Notes
-
-- All solutions are written for **clarity** first, then efficiency.
-- Some problems (like Factorial, Swap without temp, Max/Min without built-ins) are common interview questions but do not have direct LeetCode equivalents.
-- Linked List problems (19 & 20) use the classic `ListNode` class.
+We are constantly looking to improve this repository! Here are some planned updates:
+- [ ] Add a `solutions/` folder containing optimal Python code (`.py`) for the 20 interview problems.
+- [ ] Create interactive Jupyter Notebooks (`.ipynb`) for hands-on learning.
+- [ ] Add mini-projects to demonstrate real-world Python applications.
+- [ ] Expand notes to cover advanced topics (OOP, Decorators, Async programming).
 
 ---
 
-## 🎯 Goal
+## 🤝 Contributing
 
-Master these 20 problems thoroughly — they cover the core patterns that appear in almost every coding interview:
-
-- Two Pointers
-- Hash Maps / Sets
-- Recursion
-- Linked Lists
-- Searching & Sorting basics
-- String & Array manipulation
+Contributions are always welcome! If you have additional notes, better solutions to interview problems, or ideas for new features:
+1. Fork this repository.
+2. Create a new branch (`git checkout -b feature/new-content`).
+3. Commit your changes (`git commit -m 'Add some new content'`).
+4. Push to the branch (`git push origin feature/new-content`).
+5. Open a Pull Request.
 
 ---
 
-**Happy Coding & Best of Luck for your Interviews!** 🚀
+*Happy Coding & Best of Luck for your Interviews!* 🚀
